@@ -12,7 +12,7 @@ This project aims to uncover patterns in UK road accidents using interactive das
 
 ---
 ## 📁 2. Project Structure
-├── Data/
+├── Power Bi- Road Accident Analysis Dashboard/
 
 ├── Dashboard.pbix
 
