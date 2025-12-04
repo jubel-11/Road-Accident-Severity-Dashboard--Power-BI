@@ -3,7 +3,7 @@ A comprehensive **Power BI dashboard project** designed to analyze road accident
 This dashboard provides insights into accident patterns, severity levels, vehicle involvement, casualty details, and environmental conditions.
 ---
 ## Dataset
-Link: [Link](https://www.kaggle.com/datasets/paramitasen/powerbi-dashboard-road-accidents-analytics)
+Link: [Click here](https://www.kaggle.com/datasets/paramitasen/powerbi-dashboard-road-accidents-analytics)
 ---
 ## 📌 1. Project Overview
 This project aims to uncover patterns in UK road accidents using interactive dashboards.
