@@ -32,23 +32,23 @@ This project aims to uncover patterns in UK road accidents using interactive das
 ---
 ## 📊 4. Dashboards
 ### 🔹 4.1 Overview Dashboard
-![Overview Dashboard](Dashboard_images/Overview Dashboard.png)
+![Overview Dashboard](Dashboard_images/Overview%20Dashboard.png)
 
 ---
 ### 🔹 4.2 Accident Severity Analysis Dashboard
-![Accident Severity Dashboard](Dashboard_images/Severity Analysis.png)
+![Accident Severity Dashboard](Dashboard_images/Severity%20Analysis.png)
 
 ---
 ### 🔹 4.3 Vehicle & Casualty Insights Dashboard
-![Vehicle & Casualty Dashboard](Dashboard_images/Vehicle & Casualty Insights.png)
+![Vehicle & Casualty Dashboard](Dashboard_images/Vehicle%20&%20Casualty%20Insights.png)
 
 ---
 ## ✨ 5. Interactive Tooltips
 ### 🟡 Overview Tooltip
-![Overview Tooltip](Dashboard_images/Overview Tooltip.png)
+![Overview Tooltip](Dashboard_images/Overview%20Tooltip.png)
 
 ### 🟠 Severity Tooltip 
-![Severity Tooltip](Dashboard_images/Severity Tooltip.png)
+![Severity Tooltip](Dashboard_images/Severity%20Tooltip.png)
 
 ---
 ## 🛠 7. Tools Used
