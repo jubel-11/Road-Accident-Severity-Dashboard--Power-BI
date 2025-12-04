@@ -17,6 +17,7 @@ This project aims to uncover patterns in UK road accidents using interactive das
 ├── Dashboard.pbix
 
 ├── Dashboard_images/
+
 │ ├── Overview Dashboard.png
 
 │ ├── Severity Analysis.png
