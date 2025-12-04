@@ -14,7 +14,9 @@ This project aims to uncover patterns in UK road accidents using interactive das
 ## 📁 2. Project Structure
 ├── Power Bi- Road Accident Analysis Dashboard/
 
-├── Dashboard.pbix
+├── Project-Road Accident Severity.pbix
+
+├── Power-BI-Storytelling-Road Accident Severity.pptx
 
 ├── Dashboard_images/
 
