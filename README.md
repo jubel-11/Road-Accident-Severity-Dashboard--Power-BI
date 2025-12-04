@@ -13,13 +13,20 @@ This project aims to uncover patterns in UK road accidents using interactive das
 ---
 ## 📁 2. Project Structure
 ├── Data/
+
 ├── Dashboard.pbix
+
 ├── Dashboard_images/
 │ ├── Overview Dashboard.png
+
 │ ├── Severity Analysis.png
+
 │ ├── Vehicle & Casualty Insights.png
+
 │ ├── Overview Tooltip.png
+
 │ ├── Severity Tooltip.png
+
 └── README.md
 
 ---
