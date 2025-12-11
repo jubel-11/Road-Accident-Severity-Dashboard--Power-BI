@@ -62,7 +62,7 @@ This project aims to uncover patterns in UK road accidents using interactive das
 
 ---
 ## 🧩 6. Slicers
-# Applied based on:
+### Applied based on:
 - Year
 - District
 - Road Type
