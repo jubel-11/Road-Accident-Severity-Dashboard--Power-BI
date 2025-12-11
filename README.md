@@ -65,6 +65,7 @@ This project aims to uncover patterns in UK road accidents using interactive das
 - Power BI Desktop  
 - Excel / CSV  
 - Power Query  
-- DAX  
+- DAX
+- Slicers based on year,district,road type    
 - GitHub
 ---
