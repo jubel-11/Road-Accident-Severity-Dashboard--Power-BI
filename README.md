@@ -61,11 +61,17 @@ This project aims to uncover patterns in UK road accidents using interactive das
 ![Severity Tooltip](Dashboard_images/Severity%20Tooltip.png)
 
 ---
+## 🧩 6. Slicers
+# Applied based on:
+- Year
+- District
+- Road Type
+- Weather Conditions
+---
 ## 🛠 7. Tools Used
 - Power BI Desktop  
 - Excel / CSV  
 - Power Query  
-- DAX
-- Slicers based on year,district,road type    
+- DAX  
 - GitHub
 ---
